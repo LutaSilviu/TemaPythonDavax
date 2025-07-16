@@ -1,0 +1,38 @@
+# 🔐 Chei sensibile
+firebase_key.json
+
+# 🐳 Fișiere Docker mari
+math-service.tar
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧪 Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# 📦 Build outputs
+dist/
+build/
+*.egg-info/
+
+# ⚙️ Virtualenv
+.venv/
+venv/
+env/
+
+# 📝 Editor/IDE config
+.vscode/
+.idea/
+
+# ⚠️ Alte fișiere temporare
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.env
